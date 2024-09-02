@@ -10,6 +10,13 @@
 * Visualization: Generate plots and charts to visualize sales trends, customer preferences, and other key metrics.
 * Reporting: Summary reports and insights derived from the data.
 
+# Key Metrics:
+* Total Revenue
+* Average Orders
+* Total Pizza Sold
+* Total Orders
+* Average Pizza Per Order
+
 # Key Insights:
 * Sales Trends Over Time: Daily and Monthly pizza sales trends are highest on weekends and maximum in the month of July and January.
 * Sales Performance: Classic category and Large size pizza are most frequently ordered.
