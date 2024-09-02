@@ -1,8 +1,8 @@
-# Pizza_Sales_Analysis
+# Pizza_Sales_Analysis📈🍕
 # Overview:
 * The Pizza Sales Dashboard provides a comprehensive overview of key performance metrics for a pizza business, facilitating data-driven decision-making. 
 * It is designed with a user-friendly interface that showcases real-time sales data, trends, and insights.
-* This analysis helps in understanding sales performance, customer preferences, and operational efficiencies.📈🍕
+* This analysis helps in understanding sales performance, customer preferences, and operational efficiencies.
 
 # Features:
 * Data Cleaning: Preprocess and clean raw sales data.
