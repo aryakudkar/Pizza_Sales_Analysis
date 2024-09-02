@@ -5,11 +5,15 @@
 * The project includes data cleaning, exploratory data analysis (EDA), and visualization to provide actionable insights.📈🍕
 
 # Features
-1. Data Cleaning: Preprocess and clean raw sales data.
-2. Exploratory Data Analysis (EDA): Identify key trends and patterns in sales data.
-3. Visualization: Generate plots and charts to visualize sales trends, customer preferences, and other key metrics.
-4. Reporting: Summary reports and insights derived from the data.
+* Data Cleaning: Preprocess and clean raw sales data.
+* Exploratory Data Analysis (EDA): Identify key trends and patterns in sales data.
+* Visualization: Generate plots and charts to visualize sales trends, customer preferences, and other key metrics.
+* Reporting: Summary reports and insights derived from the data.
+
+# Key Insights:
+* Sales Trends Over Time: Daily and Monthly pizza sales trends are highest on weekends and maximum in the month of July and January.
+* Sales Performance: Classic category and Large size pizza are most frequently ordered.
+* Visualiztion on best and worst sellers depending on orders, revenue and quantity
 
 # Technical Aspects:
 The Pizza Sales Dashboard is developed using Power BI and SQL queries.
-
